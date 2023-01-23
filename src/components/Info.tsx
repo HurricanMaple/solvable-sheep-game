@@ -15,7 +15,7 @@ export const Info: FC = () => {
                     target="_blank"
                     rel="noreferrer"
                 >
-                    by：飓枫
+                    
                 </a>
                 、
                 <a
@@ -53,6 +53,7 @@ export const Info: FC = () => {
                 </a>
             </p>
             <p>仅供交流，禁止商用</p>
+            <p>by:飓枫</p>
         </FixedAnimateScalePanel>
     );
 };
