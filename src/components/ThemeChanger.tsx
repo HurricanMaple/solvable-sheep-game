@@ -3,7 +3,7 @@ import style from './ThemeChanger.module.scss';
 import classNames from 'classnames';
 import { fishermanTheme } from '../themes/fisherman';
 import { jinlunTheme } from '../themes/jinlun';
-import { ikunTheme } from '../themes/ikun';
+import { ikunTheme } from '../themes/default';
 import { pddTheme } from '../themes/pdd';
 import { getDefaultTheme } from '../themes/default';
 import { Theme } from '../themes/interface';

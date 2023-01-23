@@ -17,7 +17,7 @@ export const Info: FC = () => {
                 >
                     
                 </a>
-                、
+7                、
                 <a
                     href="https://blog.alcex.top"
                     target="_blank"
