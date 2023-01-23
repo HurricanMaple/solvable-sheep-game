@@ -15,11 +15,11 @@ export const Info: FC = () => {
                     target="_blank"
                     rel="noreferrer"
                 >
-                    普通DISCO（言洛版）
+                    by：飓枫
                 </a>
                 、
                 <a
-                    href="https://music.163.com/#/song?id=135022"
+                    href="https://blog.alcex.top"
                     target="_blank"
                     rel="noreferrer"
                 >
