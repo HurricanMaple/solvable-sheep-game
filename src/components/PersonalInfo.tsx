@@ -41,11 +41,11 @@ export const GithubLink: FC = () => {
     return (
         <a
             className={style.githubLink}
-            href="https://github.com/StreakingMan/solvable-sheep-game"
+            href="https://github.com/HurricanMaple"
             target="_blank"
             rel="noreferrer"
         >
-            @StreakingMan
+            @飓枫
         </a>
     );
 };

@@ -7,7 +7,7 @@ export const BeiAn: FC = () => {
             target="_blank"
             rel="noopener noreferrer nofollow"
         >
-            浙ICP备17007857号-2
+            备什么案
         </a>
     );
 };
